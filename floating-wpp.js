@@ -5,7 +5,7 @@
             message: '',
             size: '72px',
             backgroundColor: '#25D366',
-            position: 'left',
+            position: 'right',
             popupMessage: '',
             showPopup: false,
             showOnIE: true,
